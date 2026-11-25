@@ -24,7 +24,7 @@ Simple Python implementations of the Operating Systems lab experiments. Each pro
 - No external libraries needed (only built-in modules like `os`, `threading`, `time`, `random`)
 - Experiment 1 uses `os.fork()`, so it works only on **Linux / macOS**. On Windows, run it using WSL.
 
-## How to Run
+  
 
 ## Sample Outputs (quick check)
 
